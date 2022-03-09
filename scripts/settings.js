@@ -183,6 +183,8 @@ function initSdk(name) {
           uploadFileSizeLimitExceeded:
             "File limit exceeded. The maximum size is 25mb.",
         },
+        es: {
+        }
       },
     };
 
